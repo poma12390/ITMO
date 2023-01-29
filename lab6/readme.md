@@ -1,3 +1,5 @@
 # LAB6 
-## Commands
-1 - getWorkers
+
+Папки Client и Server это два отдельных приложения!
+
+Запускать в 2 окна
