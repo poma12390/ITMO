@@ -1,0 +1,9 @@
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/poma12390/Proga-Main-Logic
+[submodule "lab8"]
+	path = lab8
+	url = https://github.com/poma12390/JavaFX-lab
+[submodule "lab7"]
+	path = lab7
+	url = https://github.com/poma12390/Client-Server-Arch
